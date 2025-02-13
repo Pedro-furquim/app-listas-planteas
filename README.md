@@ -9,19 +9,8 @@ Bem-vindo ao projeto Lista de Planetas, um site que permite cadastrar, visualiza
 
 Permite o cadastro de novos planetas.
 
-Campos obrigatórios:
-
-Nome do planeta.
-
-Distância do sol (em unidades astronômicas).
-
-Tamanho (em quilômetros).
-
-Campo não obrigatório:
-
-Apelido.
-
-Validação dos campos:
-
-Todos os campos obrigatórios devem ser preenchidos.
-
+  Nome do planeta.
+  
+  Distância do sol (em unidades astronômicas).
+  
+  Tamanho (em quilômetros).
